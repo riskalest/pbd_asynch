@@ -1,4 +1,4 @@
-echo "#Proyek Basis Data 003"
+echo "#Proyek Basis Data 004"
 echo "pbd_asynch "
 echo "Syncrhronous I/O dan Unsynrhonous I/O.
 Pada synchronous I/O, kendali dikembalikan 
